@@ -1,0 +1,35 @@
+header {
+    background-color: plum;
+    padding: 20px;
+    color: yellow;
+    text-align: center;
+    text-decoration: underline;
+}
+nav {
+    background-color: black;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+.hero {
+    background-color: plum;
+    padding: 20px;
+    color: yellow;
+    text-align: center;
+    text-decoration: underline;
+}
+main {
+    background-color: plum;
+    padding: 20px;
+    color: yellow;
+    text-align: center;
+    text-decoration: underline;
+}
+footer {
+    background-color: grey;
+    padding: 20px;
+    color: yellow;
+    text-align: center;
+    text-decoration: underline;
+}
